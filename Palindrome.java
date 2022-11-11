@@ -1,3 +1,5 @@
+#Write a program to check if a even number is palindrome or not - Day 3 Assignment
+
 import java.util.*;
 public class Palindrome{
 	public static void main(String args[]){
